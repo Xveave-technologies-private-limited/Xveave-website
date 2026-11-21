@@ -8,9 +8,12 @@ AI-embedded platforms, and industry innovations on SAP and modern AI.
 
 ## Products
 
-- DesignVeave (pronounced "Design Weave") - SAP implementation accelerator.
-  A faster, structured, fully traceable S/4HANA design phase - workshops to sign-off.
-  https://xveave.com/innovations/sap-implementation-accelerator.html
+- DesignVeave (pronounced "Design Weave") - an AI-assisted platform for SAP
+  S/4HANA implementations, from fit-to-standard workshop preparation to build.
+  It holds requirements, solutions and decisions as one connected model,
+  identifies the gaps, and turns approved gaps into functional and technical
+  specifications, a build plan and a configuration cookbook.
+  https://xveave.com/designveave/
 
 - AssortVeave (pronounced "Assort Weave") - AI-assisted assortment intelligence. Early access.
   Moulds to your assortment logic - decides what goes where, explains why, and
