@@ -15,10 +15,12 @@ AI-embedded platforms, and industry innovations on SAP and modern AI.
   specifications, a build plan and a configuration cookbook.
   https://xveave.com/designveave/
 
-- AssortVeave (pronounced "Assort Weave") - AI-assisted assortment intelligence. Early access.
-  Moulds to your assortment logic - decides what goes where, explains why, and
-  simulates changes before you commit.
-  https://xveave.com/innovations/ai-assortment-intelligence.html
+- AssortVeave (pronounced "Assort Weave") - an AI-assisted assortment
+  intelligence engine for brands that sell through stores they don't own:
+  distributors, wholesale customers and retail partners. It helps you decide
+  which products each store should carry, explains why, and shows the effect
+  of a change before you commit to it. Early access.
+  https://xveave.com/assortveave/
 
 ## Pages
 
