@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Xveave Insights</title>
+<link>https://xveave.com/insights/</link>
+<description>Articles from Xveave on SAP process design, fit-to-standard workshops, AI coding agents and assortment intelligence for brands.</description>
+<language>en</language>
+<atom:link href="https://xveave.com/insights/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why SAP design decisions go unrecorded, and what it costs later</title>
+<link>https://xveave.com/insights/why-sap-design-decisions-go-unrecorded/</link>
+<guid isPermaLink="true">https://xveave.com/insights/why-sap-design-decisions-go-unrecorded/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<description>SAP projects record what was configured, rarely why. What a review of four design documents showed, what the gap costs, and how to close it.</description>
+</item>
+<item>
+<title>What to send business users before a fit-to-standard workshop</title>
+<link>https://xveave.com/insights/fit-to-standard-workshop-preparation/</link>
+<guid isPermaLink="true">https://xveave.com/insights/fit-to-standard-workshop-preparation/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<description>A fit-to-standard workshop works when business users arrive having seen the process. What to send them a week ahead, and what to leave out.</description>
+</item>
+<item>
+<title>How to get an AI coding agent to write SAP code that fits the design</title>
+<link>https://xveave.com/insights/ai-coding-agents-sap-build-plan/</link>
+<guid isPermaLink="true">https://xveave.com/insights/ai-coding-agents-sap-build-plan/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<description>A coding agent given a prompt guesses. Given a build plan drawn from the approved design, it builds what was agreed. What that plan must contain.</description>
+</item>
+<item>
+<title>How brands get the right product into stores they don’t own</title>
+<link>https://xveave.com/insights/assortment-intelligence-for-brands/</link>
+<guid isPermaLink="true">https://xveave.com/insights/assortment-intelligence-for-brands/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<description>A retailer plans its own shelves. A brand selling through partners controls only which products each customer can order. How to make that decision well.</description>
+</item>
+</channel>
+</rss>
