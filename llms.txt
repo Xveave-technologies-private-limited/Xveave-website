@@ -1,0 +1,33 @@
+Xveave Technologies - Xveave is pronounced "X-Weave". The name is weave with an X factor.
+
+Your business is the differentiator. AI is the amplifier.
+
+Helping organizations amplify what makes their business unique through AI-powered
+enterprise products, SAP innovation, and bespoke solutions. Bespoke solutions,
+AI-embedded platforms, and industry innovations on SAP and modern AI.
+
+## Products
+
+- DesignVeave (pronounced "Design Weave") - an AI-assisted platform for SAP
+  S/4HANA implementations, from fit-to-standard workshop preparation to build.
+  It holds requirements, solutions and decisions as one connected model,
+  identifies the gaps, and turns approved gaps into functional and technical
+  specifications, a build plan and a configuration cookbook.
+  https://xveave.com/designveave/
+
+- AssortVeave (pronounced "Assort Weave") - an AI-assisted assortment
+  intelligence engine for brands that sell through stores they don't own:
+  distributors, wholesale customers and retail partners. It helps you decide
+  which products each store should carry, explains why, and shows the effect
+  of a change before you commit to it. Early access.
+  https://xveave.com/assortveave/
+
+## Pages
+
+- Home: https://xveave.com/
+- What We Build: https://xveave.com/what-we-build.html
+- Innovations: https://xveave.com/innovations.html
+- Technology: https://xveave.com/technology.html
+- Industries: https://xveave.com/industries.html
+- About: https://xveave.com/about.html
+- Contact: https://xveave.com/contact.html
