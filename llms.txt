@@ -17,10 +17,6 @@ AI-embedded platforms, and industry innovations on SAP and modern AI.
   simulates changes before you commit.
   https://xveave.com/innovations/ai-assortment-intelligence.html
 
-- BuildVeave - AI-assisted code generation. Coming soon.
-  Intelligent reuse, knowledge discovery, and accelerated SAP development.
-  https://xveave.com/innovations.html#buildveave
-
 ## Pages
 
 - Home: https://xveave.com/
