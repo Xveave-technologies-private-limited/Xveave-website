@@ -22,6 +22,24 @@ AI-embedded platforms, and industry innovations on SAP and modern AI.
   of a change before you commit to it. Early access.
   https://xveave.com/assortveave/
 
+## Insights
+
+- Why SAP design decisions go unrecorded, and what it costs later
+  SAP projects record what was configured, rarely why. What a review of four design documents showed, what the gap costs, and how to close it.
+  https://xveave.com/insights/why-sap-design-decisions-go-unrecorded/
+
+- What to send business users before a fit-to-standard workshop
+  A fit-to-standard workshop works when business users arrive having seen the process. What to send them a week ahead, and what to leave out.
+  https://xveave.com/insights/fit-to-standard-workshop-preparation/
+
+- How to get an AI coding agent to write SAP code that fits the design
+  A coding agent given a prompt guesses. Given a build plan drawn from the approved design, it builds what was agreed. What that plan must contain.
+  https://xveave.com/insights/ai-coding-agents-sap-build-plan/
+
+- How brands get the right product into stores they don’t own
+  A retailer plans its own shelves. A brand selling through partners controls only which products each customer can order. How to make that decision well.
+  https://xveave.com/insights/assortment-intelligence-for-brands/
+
 ## Pages
 
 - Home: https://xveave.com/
@@ -29,5 +47,6 @@ AI-embedded platforms, and industry innovations on SAP and modern AI.
 - Innovations: https://xveave.com/innovations.html
 - Technology: https://xveave.com/technology.html
 - Industries: https://xveave.com/industries.html
+- Insights: https://xveave.com/insights/
 - About: https://xveave.com/about.html
 - Contact: https://xveave.com/contact.html
