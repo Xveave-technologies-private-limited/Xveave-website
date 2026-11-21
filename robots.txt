@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /insights/*.md$
 
 Sitemap: https://xveave.com/sitemap.xml
